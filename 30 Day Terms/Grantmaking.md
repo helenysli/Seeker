@@ -71,6 +71,11 @@
 - Is Gates Foundation the world's largest foundation? 
 
 
+### Resource
+- [盖茨基金会赠款500万美元 助力抗击肺炎疫情_财新网_财新网](http://www.caixin.com/2020-01-27/101508694.html)
+- [盖茨基金会追加赠款，支持抗击新型冠状病毒疫情 0205](https://mp.weixin.qq.com/s/KLX7U6JfXExpXYn5cg5GUw)
+- [盖茨基金会提供500万美元紧急赠款，支持中国抗击新型冠状病毒肺炎疫情](https://mp.weixin.qq.com/s/exrDeWe4zQitKD1EUx8E7Q)
+- [封面报道之四|国际篇：全球共济_财新周刊频道_财新网](http://weekly.caixin.com/2020-02-01/101510143.html)
 
 
 
