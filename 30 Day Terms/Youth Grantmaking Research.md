@@ -25,6 +25,8 @@
 	- Addy Vettel: Being a part of Rivers Givers this year has really opened me up to the world of community service and philanthropy,” says Addy Vettel ’20. “I had done a good amount of community service before this club, but I never knew about the behind-the-scenes work and the systems that went into play. In this club, I was educated about the social, financial, and political aspects of community service and the different roles that they have.”
 	- Mark Ryan: The best feature about the Rivers Givers program is being able to see where the money we donate goes. As part of the Rivers Givers program, we’re able to visit the organizations and see if the money raised should be given to one program or another. While this decision making is tough, we know that it’s important to donate the funds where we believe they will best be used. The decision-making process is similar to making certain decisions in everyday life. The Rivers Givers program reminds us to be thoughtful and mindful—which helps us grow philanthropically.”
 
+### [2018 Giving](https://www.rivers.org/news-detail?pk=950171)
+
 ### [The 10th Annual Check Presentation](https://www.rivers.org/news-detail?pk=664726)
 - Each year since the group’s inception in 2003, the Rivers Givers host several service initiatives throughout the school year to reach an annual fundraising goal of $10,000. 
 - The Givers were forced to be thorough in their decision-making. The process included visits to each organization’s site, as well as detailed discussion and debate between students regarding where the Givers’ grants would be best spent. 
@@ -36,7 +38,8 @@
 - Originally it had seed money from Crossroads Community Foundnation. In 2004, The Rivers School raised USD2,500 for the project, which was matched with USD7,500 from Crossroads.[^2]
 
 
-## YOuth Grantmaking
+## Youth Grantmaking
+【to be updated】
 
 [^1]: [Rivers Givers Host 10th Annual Check Presentation Ceremony | The Rivers School](https://www.rivers.org/news-detail?pk=664726) 2013-05-02
 [^2]: [Rivers Givers Choose Charities | The Rivers School](https://www.rivers.org/news-detail?pk=76652) 2004-01-28
