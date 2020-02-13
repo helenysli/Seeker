@@ -21,12 +21,18 @@
 - ❓大家有哪些参与社区的途径？
 
 
------
-
 ### Questions/Notes/Support
+- [Volunteering - Wikipedia](https://en.wikipedia.org/wiki/Volunteering)
 
 
+----
+###  Personal Reference
+#### Resources
+- [Sounding the Drum: Community Building in the Digital Age - Kindle edition by Lori Gosselin. Politics & Social Sciences Kindle eBooks @ Amazon.com.](https://www.amazon.com/dp/B06WRV3HNJ?tag=relinks-20)
+- [Community - Wikipedia](https://en.wikipedia.org/wiki/Community)
+- [15 Cool Facts About Community | Life, For Instance](https://lifeforinstance.com/15-cool-facts-about-community/)
+- [社区 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E7%A4%BE%E5%8C%BA) 
 
-### ChangeLog
+#### ChangeLog
 
-- 200213 Rough Thoughts
+- 200213 Rough Thoughts; Add Resources
