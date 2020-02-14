@@ -53,12 +53,16 @@
 [^1]: 类似国内说的公益组织，但也有不同
 [^2]: 美国基金会【CoF】前主席这样来解释：Charity tends to be a short-term, emotional, immediate response, focused primarily on rescue and relief, whereas philanthropy is much more long-term, more strategic, focused on rebuilding. 
 
+### Resources
+- [» 几个基本概念中折射出的中美慈善差异](http://www.gpcommon.org/ch/2013/04/29/us-china-difference-in-philanthropy/)
+- [» 非盈利组织 or 非营利组织](http://www.gpcommon.org/ch/2013/03/24/nonprofit-in-chinese/)
+- [» 2011年中美慈善捐赠数据对比解读（上）](http://www.gpcommon.org/ch/2012/11/03/2011-us-china-donation-comparison-1/)
 
 -----
 
 
 ChangeLog
-
+- 200214 增加资源
 - 200212 定义公益，删除非营利组织不是慈善
 - 200209 创建
 
