@@ -47,7 +47,8 @@
 
 
 ### 补充资源
-- 待定
+- [Bill and Melinda Gates: Why giving away our wealth has been the most satisfying thing we've done | TED Talk](https://www.ted.com/talks/bill_and_melinda_gates_why_giving_away_our_wealth_has_been_the_most_satisfying_thing_we_ve_done?referrer=playlist-on_generosity)
+- [Katherine Fulton: You are the future of philanthropy | TED Talk](https://www.ted.com/talks/katherine_fulton_you_are_the_future_of_philanthropy)
 
 
 [^1]: 类似国内说的公益组织，但也有不同
