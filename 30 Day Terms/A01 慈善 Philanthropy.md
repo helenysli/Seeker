@@ -75,3 +75,5 @@ Personal Notes
 - 这篇知乎文章，解释得很好；可是他竟然写「非盈利组织」
 - [Definitions_Philanthropy_Dr_Robert_Payton.pdf](https://www.learningtogive.org/sites/default/files/handouts/Definitions_Philanthropy_Dr_Robert_Payton.pdf) 后面的 Facts of Philanthropy 可以参考。但这是写给青少年的，比较简单。 
 - [Robert Payton’s Legacy: How to Educate Nonprofit Leaders - The Chronicle of Philanthropy](https://www.philanthropy.com/article/Robert-Payton-s-Legacy-How/158357)
+- [Charity vs. Philanthropy: How Are They Different? · Giving Compass](https://givingcompass.org/article/charity-versus-philanthropy/) Charity 和 Philanthropy 的对比
+- [The Difference Between Charity and Philanthropy | LinkedIn](https://www.linkedin.com/pulse/20140411163627-9623993-the-difference-between-charity-and-philanthropy/) Charity 和 Philanthropy 的比较。在 Diigo 里笔记一下
