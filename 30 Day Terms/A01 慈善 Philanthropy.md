@@ -48,9 +48,9 @@
 ### 04 这些资源，你可能用得上
 - TED 演讲：你就是慈善的未来：Katherine Fulton 描述了正在世界发生的慈善新模式：大规模协作、在线捐赠平台、汇聚型捐赠、创新大赛、社会投资。这场疫情中的公民行动，之所以让我们感到兴奋，因为这正是她所描绘的未来。https://www.ted.com/talks/katherine_fulton_you_are_the_future_of_philanthropy 
 - TED 访谈：为什么捐出我们的财富是我们做过的最有满足感的事：盖茨夫妇谈他们怎么开始做慈善、遇到的挑战、从中获得的收获；他们也谈到彼此的配合、自己的孩子。笑点自寻。https://www.ted.com/talks/bill_and_melinda_gates_why_giving_away_our_wealth_has_been_the_most_satisfying_thing_we_ve_done
-- 书：走的人多了，就有了路 (A Path Appears）：美亚5星、豆瓣8星的好书。作者是普利策新闻奖得主，用19个触动人心的故事，讲述世界各地的慈善家、公益人、企业家、普通人如何改变了我们生活的世界，同时也改变了我们自己。没错，书名的启发来自鲁迅。https://book.douban.com/subject/26686539/ 
+- 书：走的人多了，就有了路 (A Path Appears）：美亚5星、豆瓣8星的好书。作者是普利策新闻奖得主，用19个触动人心的故事，讲述我们每个人，可以如何改变我们的世界，同时也改变了我们自己。没错，书名的启发来自鲁迅。https://book.douban.com/subject/26686539/ 
 - 电影：让爱传出去（Pay It Forward）：一个小男孩，用自己的行动，影响了整个社区，温暖了世界。有时候，一个最简单的想法，可以带来最深远的改变。特别适合带着孩子一起看。https://movie.douban.com/subject/1301392/
-- 纪录片：「什么是慈善」（What Is Philanthropy）美国河谷州立大学的 Salvatore Alaimo 教授，历时6年拍摄，覆盖慈善相关的10几个话题，适合用作教育资源。可购买 DVD，有中文字幕。http://www.whatisphilanthropy.org/
+- 纪录片：「慈善是什么」（What Is Philanthropy）美国河谷州立大学的 Salvatore Alaimo 教授，历时6年拍摄，覆盖慈善相关的10几个话题，适合用作教育资源。可购买 DVD，有中文字幕。http://www.whatisphilanthropy.org/
 
 
 
@@ -59,14 +59,14 @@
 -----
 ``以下非正文，Just as Personal Reference``
 
-ChangeLog
+### ChangeLog
 - 200218 撰写资源、编辑
 - 200214 增加资源
 - 200212 定义公益，删除非营利组织不是慈善
 - 200209 创建
 
 
-Personal Notes
+### Personal Notes
 
 - Public good：以前译为「公共利益」，现在改为「公众利益」
 - 国内语境，表达为「中文」语境
@@ -75,9 +75,6 @@ Personal Notes
 - [Robert Payton’s Legacy: How to Educate Nonprofit Leaders - The Chronicle of Philanthropy](https://www.philanthropy.com/article/Robert-Payton-s-Legacy-How/158357)
 - [Charity vs. Philanthropy: How Are They Different? · Giving Compass](https://givingcompass.org/article/charity-versus-philanthropy/) Charity 和 Philanthropy 的对比
 - [The Difference Between Charity and Philanthropy | LinkedIn](https://www.linkedin.com/pulse/20140411163627-9623993-the-difference-between-charity-and-philanthropy/) Charity 和 Philanthropy 的比较。在 Diigo 里笔记一下
-### 补充资源
-- [Bill and Melinda Gates: Why giving away our wealth has been the most satisfying thing we've done | TED Talk](https://www.ted.com/talks/bill_and_melinda_gates_why_giving_away_our_wealth_has_been_the_most_satisfying_thing_we_ve_done?referrer=playlist-on_generosity)
-- [Katherine Fulton: You are the future of philanthropy | TED Talk](https://www.ted.com/talks/katherine_fulton_you_are_the_future_of_philanthropy)
 
 
 [^1]: 类似国内说的公益组织，但也有不同
