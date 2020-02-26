@@ -50,6 +50,7 @@
 - 慈善不仅是一种行为，也成为了一个学科。印第安纳大学的礼来慈善学院，是世界上第一个把慈善作为专门学科的高校，本科、研究生、博士生项目都覆盖。这些年，中国也有很多学生求学、毕业于这个学院呢。
 
 ### 04 这些资源，你可能用得上
+
 - TED 演讲：你就是慈善的未来：Katherine Fulton 描述了正在世界发生的慈善新模式：大规模协作、在线捐赠平台、汇聚型捐赠、创新大赛、社会投资。这场疫情中的公民行动，之所以让我们感到兴奋，因为这正是她所描绘的未来。https://www.ted.com/talks/katherine_fulton_you_are_the_future_of_philanthropy 
 - TED 访谈：为什么捐出我们的财富是我们做过的最有满足感的事：盖茨夫妇谈他们怎么开始做慈善、遇到的挑战、从中获得的收获；他们也谈到彼此的配合、自己的孩子。笑点自寻。https://www.ted.com/talks/bill_and_melinda_gates_why_giving_away_our_wealth_has_been_the_most_satisfying_thing_we_ve_done
 - 书：走的人多了，就有了路 (A Path Appears）：美亚5星、豆瓣8星的好书。作者是普利策新闻奖得主，用19个触动人心的故事，讲述我们每个人，可以如何改变我们的世界，同时也改变了我们自己。没错，书名的启发来自鲁迅。https://book.douban.com/subject/26686539/ 
@@ -73,13 +74,27 @@
 
 ### Personal Notes
 
-- Public good：以前译为「公共利益」，现在改为「公众利益」
+#### A. Public good
+- 以前译为「公共利益」，现在改为「公众利益」
+- 200226，看了张以勋的文章，觉得有道理，改回「公共利益」
+	- 公益是公共利益，因为利益相关方不全是人类，也可能是动植物、生态环境等，所以说成公众利益是不恰当的。
+	- [「慈善」和「公益」有什么区别？ - 知乎](https://www.zhihu.com/question/20374194)
+- 200226，冯新在下文中，这样来解释公益
+	- 公益，指为了**多数人的利益**，或是为了少数人的**合法权益**，这里是指注册的公益机构、未注册但是有分工的公益组织、或是单独的公益项目；【从对象上，他区分了少数人、多数人；从状态上，他列举了：正式组织、非正式组织、项目】
+	- [公益透明是否有边界？边界在哪些方面？ - 冯新的回答 - 知乎](https://www.zhihu.com/question/21438549/answer/18228171)
+
+#### B. 国内关于公益和慈善的区分
+- 200226 在这篇文章中， [「慈善」和「公益」有什么区别？ - 知乎](https://www.zhihu.com/question/20374194)
+	- 我意识到，国内把「公益」对应为 Philanthropy，「慈善」对应为 Charity；大家对 Philanthropy 和 Charity 认识，是没有差别的。 
+	- 其中有包括郝南、吕朝的说法
+
+#### C. 其它
 - 国内语境，表达为「中文」语境
 - 这篇知乎文章，解释得很好；美中不足的是，写「非盈利组织」
 - [Definitions_Philanthropy_Dr_Robert_Payton.pdf](https://www.learningtogive.org/sites/default/files/handouts/Definitions_Philanthropy_Dr_Robert_Payton.pdf) 后面的 Facts of Philanthropy 可以参考。但这是写给青少年的，比较简单。 
 - [Robert Payton’s Legacy: How to Educate Nonprofit Leaders - The Chronicle of Philanthropy](https://www.philanthropy.com/article/Robert-Payton-s-Legacy-How/158357)
 - [Charity vs. Philanthropy: How Are They Different? · Giving Compass](https://givingcompass.org/article/charity-versus-philanthropy/) Charity 和 Philanthropy 的对比
-- [The Difference Between Charity and Philanthropy | LinkedIn](https://www.linkedin.com/pulse/20140411163627-9623993-the-difference-between-charity-and-philanthropy/) Charity 和 Philanthropy 的比较。在 Diigo 里笔记一下
+- [The Difference Between Charity andhilanthropy | LinkedIn](https://www.linkedin.com/pulse/20140411163627-9623993-the-difference-between-charity-and-philanthropy/) Charity 和 Philanthropy 的比较。在 Diigo 里笔记一下
 
 
 [^1]: 类似国内说的公益组织，但也有不同
