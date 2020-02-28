@@ -105,6 +105,7 @@ NPO 最先在美国广泛使用，后来逐渐被其它国家采用；在中国�
 ### C 比较好的资源
 - [非营利组织 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E9%9D%9E%E7%87%9F%E5%88%A9%E7%B5%84%E7%B9%94) 这个说的很清楚
 - [NGO、NPO是什么？有什么区别？ - 知乎](https://zhuanlan.zhihu.com/p/80958497) 应该说，这篇是目前看到的说得最清楚的
+- [Myths About Nonprofits | National Council of Nonprofits](https://www.councilofnonprofits.org/myths-about-nonprofits) 迷思粉碎器参考了这个资源
 
 
 
