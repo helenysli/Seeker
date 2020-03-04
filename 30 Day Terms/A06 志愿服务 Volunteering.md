@@ -1,4 +1,4 @@
-## A06 2D 志愿服务 Volunteering
+## A05 2D 志愿服务 Volunteering
 
 ### Part 1 
 【定义可以很方便找到】
@@ -27,13 +27,17 @@
 
 
 ------
-
+``以下非正文，Just as Personal Reference``
 
 ###  Personal Reference
 #### Resources
 - [37 Incredible Facts about Volunteering | Volunteering Journeys](https://volunteeringjourneys.com/volunteering-ideas-2/)
 - [Volunteering - Wikipedia](https://en.wikipedia.org/wiki/Volunteering)
-- 
+- [EDITORIAL: The 10 best movie volunteers — Every Movie Has a Lesson](https://www.everymoviehasalesson.com/blog/2012/04/editorial-10-best-movie-volunteers)
+
+#### 美国志愿者规模
+[The Nonprofit Sector in Brief 2018 | National Center for Charitable Statistics](https://nccs.urban.org/publication/nonprofit-sector-brief-2018#the-nonprofit-sector-in-brief-2018-public-charites-giving-and-volunteering)
+- An estimated 25.1 percent of US adults volunteered in 2017, contributing an estimated 8.8 billion hours. This is a 1.6 percent increase from 2016. The value of these hours is approximately $195.0 billion.
 
 #### ChangeLog
 - 200213 Rough Thoughts
