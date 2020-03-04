@@ -34,7 +34,8 @@
 
 ### 03 关于基金会，还有2件事
 - 中美基金会对比：在美国，截至2015年底，共有86,203个基金会，比2005年增长了 21%；在中国，截至2019年底，共有7,856个基金会，从2014年到2019年这6年间，基金会数量翻了一番。
-- 你可能不知道：在全球范围内，很多的社会进步，基金会都是重要的推手。纽约卡耐基基金会，资助了胰岛素的发明，使成千上万的糖尿病患者摆脱了早逝的命运；洛克菲勒基金会在1916-1947年间，在中国投入近4500万美金，资助建立协和医科大学，将西医引入中国，这也是洛克菲勒基金会在最大的海外资助项目。
+- 你可能不知道：在全球范围内，很多的社会进步，基金会都是重要的推手。诺贝尔奖是诺贝尔基金会纽约卡耐基基金会，资助了胰岛素的发明，使成千上万的糖尿病患者摆脱了早逝的命运；洛克菲勒基金会在1916-1947年间，在中国投入近4500万美金，资助建立协和医科大学，将西医引入中国，这也是洛克菲勒基金会在最大的海外资助项目。
+- 基金会的慈善资本是社会的风险资本
 
 
 
@@ -56,6 +57,7 @@
 ``以下非正文，Just as Personal Reference``
 
 ### A ChangeLog
+- 200228 撰写、修订、发布
 - 200227 创建
 
 ### B Personal Notes
@@ -65,4 +67,5 @@
 ### C Resources
 - [List of wealthiest charitable foundations - Wikipedia](https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations)
 - [https://www.blackbaud.com/files/50-fascinating-philanthropy-stats/foundations.html](https://www.blackbaud.com/files/50-fascinating-philanthropy-stats/foundations.html) 几个关于基金会的数字
+- [Foundation Stats: Guide to the Foundation Center's Research Database - Foundation Center](http://data.foundationcenter.org/) 这个数字看来，上面 Blackbaud 的数据不太对。这里说基金会一共有86203，上面说 grantmaking foundation 有86203.
 
