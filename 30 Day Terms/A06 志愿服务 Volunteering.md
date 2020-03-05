@@ -23,13 +23,18 @@
 
 
 
-### Notes/Questions/Support
 
 
 ------
+
 ``以下非正文，Just as Personal Reference``
 
-###  Personal Reference
+### A ChangeLog
+
+- 200213 Rough Thoughts
+
+
+###  B Personal Notes
 #### Resources
 - [37 Incredible Facts about Volunteering | Volunteering Journeys](https://volunteeringjourneys.com/volunteering-ideas-2/)
 - [Volunteering - Wikipedia](https://en.wikipedia.org/wiki/Volunteering)
@@ -39,5 +44,8 @@
 [The Nonprofit Sector in Brief 2018 | National Center for Charitable Statistics](https://nccs.urban.org/publication/nonprofit-sector-brief-2018#the-nonprofit-sector-in-brief-2018-public-charites-giving-and-volunteering)
 - An estimated 25.1 percent of US adults volunteered in 2017, contributing an estimated 8.8 billion hours. This is a 1.6 percent increase from 2016. The value of these hours is approximately $195.0 billion.
 
-#### ChangeLog
-- 200213 Rough Thoughts
+
+### C Resources
+- [Peter Singer: The why and how of effective altruism | TED Talk](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism)
+- [Mark Bezos: A life lesson from a volunteer firefighter | TED Talk](https://www.ted.com/talks/mark_bezos_a_life_lesson_from_a_volunteer_firefighter/transcript)
+
