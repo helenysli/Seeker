@@ -1,4 +1,4 @@
-### A05 社区 Community
+### A06 社区 Community
 ``For Persoanl reference Only``
 > Why
 > 
@@ -39,17 +39,17 @@
 
 
 ### Questions/Notes/Support
-- [Volunteering - Wikipedia](https://en.wikipedia.org/wiki/Volunteering)
-- 200215, Sat：第二部分的 Research 过程中，发现社区公益/社区慈善也是高度相关的角度，还是决定坚持「社区参与」这个角度：1）社区慈善，可能会让人觉得跟自己不怎么相关；2）社区慈善也许可以成为一个专门的词条
 
 
-
-----
+——
 ``以下非正文，Just as Personal Reference``
 
+### A ChangeLog
+#### ChangeLog
+- 200304 Adding Resource
+- 200213 Rough Thoughts; Add Resources
 
-
-###  Personal Reference
+###  B Personal Notes
 #### 社区的定义
 
 社区是人们日常生活之地，它的典型表现是邻里社区，但也可以包括网络社区、学校社区、信仰社区等任何让人们彼此之间能够直接接触交流，相互之间有认同感和归属感的公共空间。[^1]
@@ -57,18 +57,22 @@
 #### Sal PPT 中对社区的定义
 A group of people with a common characteristic or interest living together within a larger society, typically having a common history or common social, economic, and political interests.
 
+#### 社区参与和社区慈善不同
 
-### 思考
+- 200215, Sat：第二部分的 Research 过程中，发现社区公益/社区慈善也是高度相关的角度，还是决定坚持「社区参与」这个角度：1）社区慈善，可能会让人觉得跟自己不怎么相关；2）社区慈善也许可以成为一个专门的词条
 
-#### Resources
+### C Resources
+
 - [Sounding the Drum: Community Building in the Digital Age - Kindle edition by Lori Gosselin. Politics & Social Sciences Kindle eBooks @ Amazon.com.](https://www.amazon.com/dp/B06WRV3HNJ?tag=relinks-20)
 - [Community - Wikipedia](https://en.wikipedia.org/wiki/Community)
 - [15 Cool Facts About Community | Life, For Instance](https://lifeforinstance.com/15-cool-facts-about-community/)
 - [社区 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E7%A4%BE%E5%8C%BA) 
-- 
 
-#### ChangeLog
 
-- 200213 Rough Thoughts; Add Resources
+
+
 
 [^1]: 印象笔记：朱健刚谈公民慈善：广州区别于北京的关键所在！
+
+
+
